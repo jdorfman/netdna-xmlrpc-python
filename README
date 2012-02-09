@@ -1,1 +1,7 @@
 NetDNA XML-RPC API - http://support.netdna.com/api/#Python
+
+Requires the following Python Packages:
+ * xmlrpclib 
+ * hashlib 
+ * datetime 
+ * pytz
